@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(189, 178, 178);
+}
+
+.logo{
+    width: 100px;
+    position: absolute;
+    top: 50px;
+    left: 120px;
+}
+
